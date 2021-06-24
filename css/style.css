@@ -33,7 +33,7 @@ background-color: rgb(15, 14, 14); }
 #authors img {
   margin-top: -50px; }
 #authors .card:hover {
-  background: #a67432;
+  background: #e49b13;  /* Apurv's color changes*/
   color: #fff; }
 #authors .fab {
   color: #fff; }
@@ -46,3 +46,36 @@ background-color: rgb(15, 14, 14); }
 
   .mb-resp {
     margin-bottom: 1rem; } }
+
+  
+/* Apurv's Addition in CSS  */
+
+#contact{
+
+  background-image: url(../img/48d16a1f6e1fcbcfc7228ca6bdbbc642.webp);
+
+  background-size: 50%;
+}
+
+#about{
+
+  background-image: url(../img/space.png);
+
+  background-size: 100%;
+
+  background-repeat: no-repeat;
+}
+
+#accordion .card{
+
+  background:rgba(134, 57, 141, 0.9);
+
+  color: rgb(245, 245, 245);
+
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  font-size: medium;
+}
+
+
+
